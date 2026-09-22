@@ -11,7 +11,7 @@
 <!-- ... rest of your README content (About Me, Tech Stack, Socials, etc.) ... -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=3B82F6&height=100&section=footer" alt="footer" />
 </div>
   
 # 💫 About Me:
