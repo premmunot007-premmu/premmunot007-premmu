@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey%2C+%F0%9F%91%8B+I'm+Prem+Munot;Crafting+efficient+code+%7C+Exploring+NLP+%26+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=%2C+%F0%9F%91%8B+Hey+I'm+Prem+Munot;Crafting+efficient+code+%7C+Exploring+NLP+%26+ML" alt="Typing SVG" />
 </div>
   
 # 💫 About Me:
