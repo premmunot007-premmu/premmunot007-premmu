@@ -48,13 +48,13 @@
 ![](https://streak-stats.demolab.com/?user=premmunot007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=premmunot007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-
 ## ✍️ Random Dev Quote
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=800&height=80&lines=%22Sometimes+it+pays+to+stay+in+bed+on+Monday%2C+rather;than+spending+the+rest+of+the+week+debugging+Monday's+code.%22" alt="Dev Quote" />
+<div align="center">
 
-<sub>— Dan Salomon</sub>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=90&lines=%22Sometimes+it+pays+to+stay+in+bed+on+Monday%2C+rather;than+spending+the+rest+of+the+week+debugging;Monday's+code.%22" alt="Dev Quote" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=EC4899&center=true&vCenter=true&repeat=false&width=400&lines=-+Dan+Salomon" alt="Attribution" />
 
 </div>
 
