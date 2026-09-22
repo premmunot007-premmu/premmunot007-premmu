@@ -1,5 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Prem+Munot;Turning+ideas+into+code%2C+one+bug+at+a+time;Sch%C3%B6n%2C+dass+du+hier+bist!+%F0%9F%91%8B" alt="Typing SVG" />
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&height=60&lines=Hey%2C+I'm+Prem+Munot;Turning+ideas+into+code%2C+one+bug+at+a+time;Sch%C3%B6n%2C+dass+du+hier+bist!+%F0%9F%91%8B" alt="Typing SVG" />
+
+<br><br>
+
+</div>
+
+<!-- ... rest of your README content (About Me, Tech Stack, Socials, etc.) ... -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="footer wave" />
 </div>
   
 # 💫 About Me:
