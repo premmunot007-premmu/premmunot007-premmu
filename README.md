@@ -1,4 +1,6 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hello+I'm+Prem+Munot;Full+Stack+Developer+%7C+Problem+Solver;Computer+Engineering+Student+%7C+ML%2FNLP+Enthusiast" alt="Typing SVG" /> <img src="https://user-images.githubusercontent.com/00000000/divider.png" width="0" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Prem+Munot+%F0%9F%91%8B;Crafting+efficient+code+%7C+Exploring+NLP+%26+ML" alt="Typing SVG" />
+</div>
   
 # 💫 About Me:
 👋 Hey, I'm Prem Munot — a Computer Engineering student who enjoys coding, solving problems, and learning new technologies. I'm interested in software development, AI, and Machine Learning.<br>
