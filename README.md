@@ -10,10 +10,10 @@
 
 <!-- ... rest of your README content (About Me, Tech Stack, Socials, etc.) ... -->
 <div align="center">
-  <img src="https://github-readme-pokemon.vercel.app/pokemon?type=pikachu" width="120" />
-  <img src="https://github-readme-pokemon.vercel.app/pokemon?type=charmander" width="120" />
-  <img src="https://github-readme-pokemon.vercel.app/pokemon?type=eevee" width="120" />
-  <img src="https://github-readme-pokemon.vercel.app/pokemon?type=squirtle" width="120" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="120" alt="Pikachu" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/4.gif" width="120" alt="Charmander" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/133.gif" width="120" alt="Eevee" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/7.gif" width="120" alt="Squirtle" />
 </div>
   
 # 💫 About Me:
