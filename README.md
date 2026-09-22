@@ -9,9 +9,11 @@
 </div>
 
 <!-- ... rest of your README content (About Me, Tech Stack, Socials, etc.) ... -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wind&color=3B82F6&height=100&section=footer" alt="footer" />
+  <img src="https://github-readme-pokemon.vercel.app/pokemon?type=pikachu" width="120" />
+  <img src="https://github-readme-pokemon.vercel.app/pokemon?type=charmander" width="120" />
+  <img src="https://github-readme-pokemon.vercel.app/pokemon?type=eevee" width="120" />
+  <img src="https://github-readme-pokemon.vercel.app/pokemon?type=squirtle" width="120" />
 </div>
   
 # 💫 About Me:
