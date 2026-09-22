@@ -59,6 +59,6 @@
 </div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=premmunot007&icon=0&color=1)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=premmunot007-premmu&color=3B82F6&style=flat-square&label=Profile+Views)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
