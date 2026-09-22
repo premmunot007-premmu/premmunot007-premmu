@@ -52,9 +52,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=90&lines=%22Sometimes+it+pays+to+stay+in+bed+on+Monday%2C+rather;than+spending+the+rest+of+the+week+debugging;Monday's+code.%22" alt="Dev Quote" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=10&color=2DD4BF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=90&lines=%22Sometimes+it+pays+to+stay+in+bed+on+Monday%2C+rather;than+spending+the+rest+of+the+week+debugging;Monday's+code.%22" alt="Dev Quote" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=EC4899&center=true&vCenter=true&repeat=false&width=400&lines=-+Dan+Salomon" alt="Attribution" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=10&color=EC4899&center=true&vCenter=true&repeat=false&width=400&lines=-+Dan+Salomon" alt="Attribution" />
 
 </div>
 
