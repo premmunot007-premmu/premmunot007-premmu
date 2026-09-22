@@ -48,8 +48,15 @@
 ![](https://streak-stats.demolab.com/?user=premmunot007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=premmunot007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+
+## ✍️ Random Dev Quote
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=800&height=80&lines=%22Sometimes+it+pays+to+stay+in+bed+on+Monday%2C+rather;than+spending+the+rest+of+the+week+debugging+Monday's+code.%22" alt="Dev Quote" />
+
+<sub>— Dan Salomon</sub>
+
+</div>
 
 ---
 [![](https://komarev.com/ghpvc/?username=premmunot007&icon=0&color=1)](https://visitcount.itsvg.in)
