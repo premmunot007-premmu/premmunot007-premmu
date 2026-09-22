@@ -11,8 +11,6 @@
 <!-- ... rest of your README content (About Me, Tech Stack, Socials, etc.) ... -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%8E%AE+Powered+by+these+little+guys" alt="Pokemon caption" />
-
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="120" alt="Pikachu" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/4.gif" width="120" alt="Charmander" />
