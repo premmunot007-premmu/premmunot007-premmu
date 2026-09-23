@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=10&&duration=2500&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=100&lines=Hey%2C+I'm+Prem+Munot;Turning+ideas+into+code%2C+one+bug+at+a+time;Sch%C3%B6n%2C+dass+du+hier+bist!+%F0%9F%91%8B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=10&duration=2500&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=100&lines=Hey%2C+I'm+Prem+Munot;Turning+ideas+into+code%2C+one+bug+at+a+time;Sch%C3%B6n%2C+dass+du+hier+bist!+%F0%9F%91%8B" alt="Typing SVG" />
 
 <br><br>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=10&color=2DD4BF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=90&lines=%22Sometimes+it+pays+to+stay+in+bed+on+Monday%2C+rather;than+spending+the+rest+of+the+week+debugging;Monday's+code.%22" alt="Dev Quote" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=10&duration=2500&color=2DD4BF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=90&lines=%22Sometimes+it+pays+to+stay+in+bed+on+Monday%2C+rather;than+spending+the+rest+of+the+week+debugging;Monday's+code.%22" alt="Dev Quote" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=10&duration=2500&color=EC4899&center=true&vCenter=true&repeat=false&width=400&lines=-+Dan+Salomon" alt="Attribution" />
 
