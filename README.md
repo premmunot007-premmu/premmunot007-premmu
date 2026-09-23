@@ -31,7 +31,7 @@
 
 🏗️ Actively building full-stack projects and solving coding challenges<br>
 
-📫 Reach me: Premmunot007@gmail.com
+📫 Reach me: premmunot007@gmail.com
 
 
 ## 🌐 Socials:
