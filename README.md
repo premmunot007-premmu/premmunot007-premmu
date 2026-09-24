@@ -18,9 +18,6 @@
 
 </div>
 
-# 💫 About Me:
-
-👋 Hey, I'm Prem Munot — a Computer Engineering student who enjoys coding, solving problems, and learning new technologies. I'm interested in software development, AI, and Machine Learning.
   
 # 💫 About Me:
 👋 Hey, I'm Prem Munot — a Computer Engineering student who enjoys coding, solving problems, and learning new technologies. I'm interested in software development, AI, and Machine Learning.<br>
