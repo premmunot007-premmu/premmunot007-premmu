@@ -10,10 +10,10 @@
 <div align="center">
 <br>
 
-<img src="./assets/pikachu.gif" width="120" alt="Pikachu">
-<img src="./assets/charmander.gif" width="120" alt="Charmander">
-<img src="./assets/bulbasaur.gif" width="120" alt="Bulbasaur">
-<img src="./assets/squirtle.gif" width="120" alt="Squirtle">
+<img src="./assets/Pikachu.gif" width="120" alt="Pikachu">
+<img src="./assets/Charmander.gif" width="120" alt="Charmander">
+<img src="./assets/Bulbasaur.gif" width="120" alt="Bulbasaur">
+<img src="./assets/Squirtle.gif" width="120" alt="Squirtle">
 
 <br><br>
 
