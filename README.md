@@ -6,16 +6,26 @@
 
 <br><br>
 
-</div>
-
 <div align="center">
 
-![Pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif)
-![Charmander](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/4.gif)
-![Bulbasaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/1.gif)
-![Squirtle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/7.gif)
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=10&duration=2500&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=100&lines=Hey%2C+I'm+Prem+Munot;Turning+ideas+into+code%2C+one+bug+at+a+time;Sch%C3%B6n%2C+dass+du+hier+bist!+%F0%9F%91%8B" alt="Typing SVG">
+
+<br><br>
+
+<img src="./assets/pikachu.gif" width="120" alt="Pikachu">
+<img src="./assets/charmander.gif" width="120" alt="Charmander">
+<img src="./assets/bulbasaur.gif" width="120" alt="Bulbasaur">
+<img src="./assets/squirtle.gif" width="120" alt="Squirtle">
+
+<br><br>
 
 </div>
+
+# 💫 About Me:
+
+👋 Hey, I'm Prem Munot — a Computer Engineering student who enjoys coding, solving problems, and learning new technologies. I'm interested in software development, AI, and Machine Learning.
   
 # 💫 About Me:
 👋 Hey, I'm Prem Munot — a Computer Engineering student who enjoys coding, solving problems, and learning new technologies. I'm interested in software development, AI, and Machine Learning.<br>
