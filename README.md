@@ -11,8 +11,11 @@
 <br>
 
 <img src="./assets/Pikachu.gif" width="120" alt="Pikachu">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/Charmander.gif" width="120" alt="Charmander">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/Bulbasaur.gif" width="120" alt="Bulbasaur">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/Squirtle.gif" width="120" alt="Squirtle">
 
 <br><br>
