@@ -84,11 +84,13 @@
 ---
 
 
+
 <div align="center">
   
-  <img src="https://profile-counter.glitch.me/premmunot007-premmu/count.svg" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=premmunot007-premmu&label=Profile%20Views&color=2E9EF7&style=flat-square" alt="Visitor Counter" />
   
 </div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
