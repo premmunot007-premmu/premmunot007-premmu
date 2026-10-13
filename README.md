@@ -83,10 +83,12 @@
 
 ---
 
-<div align="center">
- 
-![Profile Views](https://komarev.com/ghpvc/?username=premmunot007-premmu&color=3B82F6&style=flat-square&label=Profile+Views)
 
+<div align="center">
+  
+  <img src="https://profile-counter.glitch.me/premmunot007-premmu/count.svg" alt="Profile Views">
+  
 </div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
